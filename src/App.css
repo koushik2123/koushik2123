@@ -1,0 +1,21 @@
+h1 {
+  font-size: 30px;
+  color: #0727e0;
+  text-align: center;
+  background-color: antiquewhite;
+  }
+  
+h2 {
+      font-size: 30px;
+      color: #0ce20c;
+      text-align: center;
+      background-color: azure;
+}
+button{
+  color: #300c02;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  box-shadow: #300c02;
+}
+
