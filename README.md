@@ -5,8 +5,6 @@ We are suppose to create a welcome page for new students when they login on our 
 We want to isolate main component from greeting text so we choose to create a welcome component that takes name as input and output a welcome message.
 
 
-Details
-
 Create a Welcome component(greeting message) in Welcome.js
 
 Use React functional component to do so.
@@ -24,3 +22,7 @@ Acceptance criteria
 Welcome message should be as given in the Details section.
 
 Use of functional component.
+
+
+
+Details![scrnli_1_19_2023_1-54-24 PM](https://user-images.githubusercontent.com/92156372/213403043-84cfcc2a-848b-4b44-b167-e6263f934520.gif)
